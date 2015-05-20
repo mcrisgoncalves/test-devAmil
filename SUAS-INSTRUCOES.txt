@@ -1,0 +1,4 @@
+A solução foi feita da forma mais simples e rápida devido ao tempo que foi disponibilizado para faze-la.
+Essa talvez seria uma alternativa para um sprint inicial para entrega ao cliente.
+Para um próximo, poderia ser pensada uma solução mais elaborada.
+Não está especificado abertamente qual seria o vencedor do jogo. Assumi então que o vencedor seria o que matou mais.
